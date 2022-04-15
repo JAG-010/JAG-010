@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any DevOps related projects**
 
-- 🤝 I’m looking for help with **Terraform, Docker, ShellScript**
+<!-- - 🤝 I’m looking for help with **Terraform, Docker, ShellScript** -->
 
 - 👨‍💻 All of my projects are available at [github.com/JAG-010](https://github.com/JAG-010)
 

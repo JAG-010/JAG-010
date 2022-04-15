@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Python**
 
-- 👯 I’m looking to collaborate on **any DelOps related projects**
+- 👯 I’m looking to collaborate on **any DevOps related projects**
 
 - 🤝 I’m looking for help with **Terraform, Docker, ShellScript**
 

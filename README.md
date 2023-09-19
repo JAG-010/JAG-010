@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/JAG-010](https://github.com/JAG-010)
 
-- 📝 I regularly write articles on [blog.jagan-sekaran.me](https://blog.jagan-sekaran.me/)
+- 📝 I regularly write articles on [jag.hashnode.dev](https://jag.hashnode.dev/)
 
 - 💬 Ask me about **Linux, Terraform, Docker, AWS**
 
